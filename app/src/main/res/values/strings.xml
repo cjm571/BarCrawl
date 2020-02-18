@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BarCrawl</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="channel_id">BAR_TRACKER_CHANNEL_ID</string>
+    <string name="channel_name">Bar Tracker</string>
+    <string name="channel_description">Notifications for the BarCrawl bar tracking service.</string>
+
+    <string name="notification_title">BarCrawl</string>
+    <string name="notification_message">BarCrawl is tracking your gainz…</string>
+
+    <string name="bartracker_service_desc">Service that tracks bar movement via phone position</string>
+    <string name="bartracker_service_label">BarCrawl Tracker Service</string>
+</resources>
